@@ -30,6 +30,6 @@ npm run dev
 GitHub: [@adityarajsingh2904](https://github.com/Adityarajsingh2904)  
 Email: thisis.adityarajsingh@gmail.com
 
-## License
+##  License
 
 MIT License
